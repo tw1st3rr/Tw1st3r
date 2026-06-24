@@ -4,7 +4,7 @@ A class-aware consumable manager plugin for **AdventureQuest Worlds** via the [S
 
 It auto-uses your Tonics, Elixirs, Potions and Scrolls during combat, keeps your buffs refreshed, and recommends the right potions + enhancements for **96+ classes** — pulled from the community classes guide.
 
-**Made for daily use.** Set it once, leave it running — it handles your buffs and potions for you through farming, grinding, Ultras and AFK sessions, so you never have to think about consumables again.
+**Made for daily use.** Set it once, leave it running — it handles your buffs and potions for you through farming, grinding and AFK sessions, so you never have to think about consumables again.
 
 **Drop-in plugin.** Just put two files in your Skua plugins folder and load it. Works with **any Skua version** — including custom builds — because it uses Skua's standard plugin interface. No rebuild, no source edits.
 
