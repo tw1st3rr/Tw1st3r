@@ -1,0 +1,4698 @@
+{
+  "_comment": "Auto-generated from the Simplified Classes Guide PDF. v2 schema: per-build enhancements + potions + tips.",
+  "_source": "Simplified classes guide 2 - Google Sheets.pdf",
+  "Archivist of Time": {
+    "role": "Support",
+    "description": "Check out Alvi's video on the class (Link Here) It is a very complex and combo-reliant class with a lot of depth",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Full Forge",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultra Dage",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "I didn't listen",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      }
+    ],
+    "tips": "Check out Alvi's video on the class (Link Here) It is a very complex and combo-reliant class with a lot of depth.\nIf you like this kind of class, and have the endgame enhancements to back it up, then it should be a good second or third chrono.\nReminder that this class is not ideal for solo in any way, so make sure you have that covered before getting this class.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Draco Knight": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Sage Tonic",
+      "Potent Destruction Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Solo DPS",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultra DPS",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Your skills [2] and [3] improve your other skills in different ways\nTo cycle all effects:\nStart with: [34 - 25 - 32] (x3)\nThen repeat: [3 - 24 - 3 - 25 - 234]\nValiance can be replaced by Acheron for higher damage",
+    "tonic": "Sage Tonic",
+    "elixir": "Potent Destruction Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Wizard",
+      "weapon": "Valiance",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Empyrean Chronomancer": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Solo",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Ultras DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Start with your [3]\nCombo: [3 - 2] (x4) - [3 - 4]\nThen repeat: [2 - 3] (x4) - [4]\nSpam your [5] out of cooldown\nYour [5] will buff other chronos too",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Vim",
+      "cape": "Vainglory"
+    }
+  },
+  "Glaceran Warlord": {
+    "role": "DPS / Support",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Solo DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Combo: [232 - 242 - 25 - 32]\n[2] Changes your skills\n[3] and [4] are attacks that debuff\n[5] is your heal\nUse [5] with Frozen Heart buff for massive heal over time\nUse [5] without Frozen Heart buff for massive single heal and various buffs",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Legion DoomKnight": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Solo",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Budget DPS",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Highest DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Just spam everything\nUse your [5] to decay the target (prevents them from healing) for 10 seconds\nVainglory can be replaced by Penitence if needed",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Lich": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget DPS",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Examen",
+        "cape": "Lament"
+      },
+      {
+        "name": "Full DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Recommended Build",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Keep [5-4] buff active for crit chance, haste and mana buffs\nAlways use [5] before [2] (massive damage)\nUse [5] before [3] for resistances debuff and decay\nSpam [5-2] and [3]\nRemember to refresh your buffs and debuffs\nCombo: [54 - 53 - 52 - 43 - 52]",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Examen",
+      "cape": "Vainglory"
+    }
+  },
+  "Lord of Order": {
+    "role": "Support",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Destruction Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Highest Heal",
+        "class": "Healer",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Absolution"
+      },
+      {
+        "name": "Full Forge",
+        "class": "Lucky",
+        "weapon": "Arcana Concerto",
+        "helm": "Forge",
+        "cape": "Absolution"
+      },
+      {
+        "name": "Meta Build",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Forge",
+        "cape": "Absolution"
+      }
+    ],
+    "tips": "Just spam everything\nYou can save your [5] for key moments in fights, completely negating certain damages\n[2] increases all attributes\n[3] increases resistance and damage, on top of healing\n[4] increases critical damage and haste\nKEEP YOUR BUFFS ACTIVE FOR THE LOVE OF GOD\nIf you need, use Penitence cape",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Destruction Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Lucky Awe Blast",
+      "helm": "Forge",
+      "cape": "Absolution"
+    }
+  },
+  "Ninja": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Solo DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultra Dage",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "[5-4] to debuff hit chance\nSpam [2] and [3]",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Vim",
+      "cape": "Vainglory"
+    }
+  },
+  "Quantum Chronomancer": {
+    "role": "DPS / Support",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Health Vamp",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Recommended Ultras",
+        "class": "Lucky",
+        "weapon": "Smite",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Risky / Solo DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Spam [2] and [3] out of cooldown\nUse [4 - 2 - 5] to nuke\nYou might need Penitence in certain ultras\nThis class is miserable for soloing or anything that doesn't involve a group",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Royal BattleMage": {
+    "role": "DPS Caster",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Highest Damage",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Lament"
+      },
+      {
+        "name": "Trust me bro",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Get your mana as low as possible with your [5], [4] and [2]\nUse [5 - 3 - 2] or [5 - 2 - 3] depending on how low your mana is for max damage\n[3] deals the most damage when your mana is at 0\n[2] also deals a lot of damage when your mana is low\n[5] increases your damage for 2 seconds\nSpam [4] to help keeping mana low\nSkills that deal damage based on lost mana or health also scale with Attack Power\nThis is why ArchMage and Healer like STR",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Lament"
+    }
+  },
+  "Scarlet Sorceress": {
+    "role": "Support",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Keen Eye Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Highest Damage",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Examen",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Stack [5] before starting\nJust spam everything\nUse your [2] to decay the target (prevents them from healing)",
+    "tonic": "Fate Tonic",
+    "elixir": "Keen Eye Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Valiance",
+      "helm": "Examen",
+      "cape": "Lament"
+    }
+  },
+  "StoneCrusher": {
+    "role": "Support",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Divine Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Fighter",
+        "weapon": "Fighter",
+        "helm": "Fighter",
+        "cape": "Fighter"
+      },
+      {
+        "name": "Highest Healing",
+        "class": "Fighter",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Absolution"
+      },
+      {
+        "name": "Healing + Damage",
+        "class": "Fighter",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Absolution"
+      },
+      {
+        "name": "Highest Damage",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Just spam everything\nDO NOT LET BUFFS END\nUse your healing AFTER you get all buffs for highest healing (this includes Valiance)\nYour healing scales purely with Attack Power\nHoT effects are affected by Magic Boost and Damage Boost\nSC has so much Magic Boost that increasing INT for more is useless",
+    "tonic": "Might Tonic",
+    "elixir": "Divine Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Praxis",
+      "helm": "Pneuma",
+      "cape": "Vainglory"
+    }
+  },
+  "TimeKeeper": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Full Dodge",
+        "class": "Lucky",
+        "weapon": "Lacerate",
+        "helm": "Vim",
+        "cape": "Lament"
+      },
+      {
+        "name": "Max Damage",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Max Crit",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Buy Phantasm Chronomancer\nBank TimeKeeper\nEnjoy a real class\nKeep [3] always active\nMax Crit:\nUse Unstable Might Tonic, Unstable Keen Elixir and Felicitous Philtre for actually max crit chance\nNow you are dodging even less lmao",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Lacerate",
+      "helm": "Vim",
+      "cape": "Lament"
+    }
+  },
+  "Yami no Ronin": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget DPS",
+        "class": "Lucky",
+        "weapon": "Lacerate",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Solo DPS",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultra DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Your auto and skills reduce your dodge, but increase your damage\nYour [5] will consume all stacks\nYour [3] has a 50/50 chance to make the next hit you take deal 0 damage\nInfinite dodge:\nRisky dodge:\nZero dodge: [2 - 4] spam (dauntless)",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Vainglory"
+    }
+  },
+  "Alpha Omega": {
+    "role": "Tank Melee / DPS",
+    "description": "Simple class, no combo. Spam Skill 2; Skill 3 burns mana. Niche use in Ultra Darkon.",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky",
+        "helm": "Thief",
+        "cape": "Thief"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky",
+        "helm": "Forge",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Lucky",
+        "weapon": "Smite",
+        "helm": "Vim",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Vim",
+        "cape": "Lament"
+      },
+      {
+        "name": "Ultra Darkon",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Vim",
+        "cape": "Avarice"
+      }
+    ],
+    "tips": "Alpha Omega is an extremely simple class, so there is absolutely no combo to follow.\nSpamming can lead to mana issues, specially with Skill 3, which has a high mana cost and deals very little damage.\nRecommended to always keep the buffs from your healing active, while spamming Skill 2 as most as possible. Skill 5 should be used almost always out of cooldown too, in order to maximize DPS. Stop using Skill 2 in case you start running out of mana. Unless you get it very early from Wheel of Doom, there isn't much use in the class.\nAlthough, it has found a niche in Ultra Darkon, as a very consistent way to clear the fight.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Abyssal Angel": {
+    "role": "Farmer",
+    "description": "Acheron user: let stacks drop (~8 max).",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Wizard",
+        "weapon": "Wizard",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Forge",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Full Dodge",
+        "class": "Lucky",
+        "weapon": "Lacerate",
+        "helm": "Examen",
+        "cape": "Lament"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Overall, it's just a brainless spam class.\nYou can not use Skill 2 to keep multi-target, becoming a decent early game farmer. All things considered, it is not worth it pushing this class further than the early game and only recommended buying if you are a class collector.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Acheron",
+      "helm": "Examen",
+      "cape": "Lament"
+    }
+  },
+  "Artifact Hunter": {
+    "role": "Hybrid",
+    "description": "It is a PvP class in it's entirety, almost completely useless outside of that niche",
+    "potions": [
+      "Fate Tonic",
+      "Potent Destruction Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Lucky",
+        "weapon": "Lacerate",
+        "helm": "Forge",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Just spam. It is a PvP class in it's entirety, almost completely useless outside of that niche.\nUnless you are a class collector, avoid this class.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Destruction Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Praxis",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Arachnomancer": {
+    "role": "DPS",
+    "description": "The generic way is to just alternate skills: 2 - 4 - 3 - 5",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lacerate",
+        "helm": "Vim",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultra Dage",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "The generic way is to just alternate skills: 2 - 4 - 3 - 5\nThis way, you always keep up your dodge and is always applying all of your damage. However, you might want to hold on your 4 and 5 in some fights, only applying them when necessary due to health costs. Although not common, since group survivability is extremely high, those scenarios can happen.\nMana control is somewhat important on early game too, or even depend on your build. Because of that, using your skills sparringly and acting as a debuffer might be the best way to play the fight. It is an extremely good class, easy to farm and performs as an early game 100% dodge class when played well.\nIt is also one of the best debuffers in the game, standing next to Endgame classes, which is extremely rare for a class found very early in the game.",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "ArchPaladin": {
+    "role": "Support",
+    "description": "Spam your Skill 2 and make sure your buffs from Skill 3 are ALWAYS on",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Vim",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Ultra Dage",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Spam your Skill 2 and make sure your buffs from Skill 3 are ALWAYS on.\nTry to time your Skill 5, so that it removes the debuff from Skill 4 as it is about to fade, in order to maximize your debuffs. A very simple class and a staple in almost every ultra.\nAlthough it has solid replacements in a couple fights, it is basically omnipresent, if you want to use it hard enough.",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Lament"
+    }
+  },
+  "Bard": {
+    "role": "Support",
+    "description": "Use each combo in order, then repeat them to keep all effects applied:",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Wizard",
+        "weapon": "Wizard Awe Blast",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Wizard",
+        "weapon": "Wizard Awe Blast",
+        "helm": "Pneuma",
+        "cape": "Absolution"
+      },
+      {
+        "name": "Full Forge",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Absolution"
+      },
+      {
+        "name": "Battle Bard",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Use each combo in order, then repeat them to keep all effects applied:\n[2 - 5 - 3 - 4] Bonus Healing\n[2 - 3 - 4 - 5] Bonus Debuff\n[2 - 4 - 5 - 3] Bonus Damage\nSpam 3 in between each combo when using Ravenous. Decent early game support, but nothing special in endgame.\nHas no place in endgame, other than a funny utility support that might just work.",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "BlazeBinder": {
+    "role": "Caster",
+    "description": "Acheron user: let stacks drop (~10 max).",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Wizard",
+        "weapon": "Mana Vamp",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Wizard",
+        "weapon": "Wizard Awe Blast",
+        "helm": "Pneuma",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Full Forge",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Just spam. A very solid early-mid game class.\nThe downside is that Pyromancer (required) is locked behind daily quests, so Blaze Binder almost never sees the light of day before you get something better (like ArchFiend).",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Wizard",
+      "weapon": "Acheron",
+      "helm": "Pneuma",
+      "cape": "Lament"
+    }
+  },
+  "Berserker": {
+    "role": "DPS",
+    "description": "Start with your 5 to get your buffs and healing ready",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Vim",
+        "cape": "Penitence"
+      },
+      {
+        "name": "Full Forge",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      },
+      {
+        "name": "Ultra DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Start with your 5 to get your buffs and healing ready.\nSpam Skill 2 for damage, using Skill 3 AFTER the enemy hits you, so you have time to heal up.\nUse Skill 4 whenever you are low on health (about half HP should be good).\nUse Skill 5 again to heal up, in case you need, then activate it again for the buffs as soon as possible. THIS SHIT IS SO PEAK\nPS: Shits itself in most ultras because of HP",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Blood Titan": {
+    "role": "Tank Melee",
+    "description": "It is mostly a brainless spam class",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Endurance Draught"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Fighter",
+        "weapon": "Fighter",
+        "helm": "Fighter",
+        "cape": "Fighter"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Fighter",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Fighter"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Fighter",
+        "weapon": "Praxis",
+        "helm": "Hearty",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "It is mostly a brainless spam class. However, it is best to wait for the passive regenenration after every skill. Often used in cheesy strategies, has no real niche nowadays.\nIt is also a terrible beginners class, due to the fact that your Maximum Health and STR will be quite low without forges.",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Endurance Draught",
+    "scroll": "",
+    "enhancements": {
+      "class": "Fighter",
+      "weapon": "Praxis",
+      "helm": "Hearty",
+      "cape": "Vainglory"
+    }
+  },
+  "Chaos Avenger": {
+    "role": "Tank Melee",
+    "description": "It is a slow class, alternating between a Basic Attack and a Skill to make use of the marks",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lacerate",
+        "helm": "Anima",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Defensive Solo",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Penitence"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultra Dage",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Penitence"
+      }
+    ],
+    "tips": "It is a slow class, alternating between a Basic Attack and a Skill to make use of the marks.\nThe best way is to start with your Skill 4 to gain resistances, then follow with a Skill 5 after your Basic Attack - this guarantees all positive effects and gives you the strongest start.\nYou might have to use a Skill 2 after your Skill 4 against harder hitting bosses. Don't be stuck to a pattern with this class and try to adapt to your situation. One of the three best F2P tanks in the entire game, together with Void HighLord and Hollowborn VIndicator.\nAlthough not the best DPS, the class has absurd amounts of damage, it is just entirely focused on your Basic Attack.",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Penitence"
+    }
+  },
+  "Chaos Shaper": {
+    "role": "Hybrid",
+    "description": "You basicall spam Skill 2 while alternating between Skills 3 and 4",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Forge",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Examen",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Mana Buffs",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "You basicall spam Skill 2 while alternating between Skills 3 and 4.\nTry to align Skill 3 with Unity and Skill 4 with Chaos, if you can. Otherwise, keep gambling.\nPress 5 when you run out of mana. Better than most people give it credit.\nWith the right forge enhancements and some potions, this class is an absolute monster. If you are lucky, it is even better.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Chaos Slayer": {
+    "role": "Support",
+    "description": "Acheron user (chaos only): permanently active.",
+    "potions": [
+      "Fate Tonic",
+      "Velocity Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Forge",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Vim",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Budget Forge",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Chaos Hydras",
+        "class": "Lucky",
+        "weapon": "Acheron",
+        "helm": "Vim",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "When farming, never use your Skill 2. Instead, spam Skills 3, 4 and 5.\nOtherwise, simply spam your skills out of cooldown.\nAgainst Non-Chaos, there is a chance of your Skill 3 debuffing you. Pay attention to that, since using Skill 5 while that debuff is active will cause you to take 5x more damage. Why is this class better than Chaos Avenger as a DPS?\nOh, but it is only against Chaos...\nNo, it is all the time. Why? Can we buff Chaos Avenger now?",
+    "tonic": "Fate Tonic",
+    "elixir": "Velocity Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Acheron",
+      "helm": "Vim",
+      "cape": "Lament"
+    }
+  },
+  "Chrono Chaorruptor": {
+    "role": "Hybrid",
+    "description": "Spam Skills 2, 3 and 5 out of cooldown",
+    "potions": [
+      "Fate Tonic",
+      "Keen Eye Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Forge",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget Forge",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Lament"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Spam Skills 2, 3 and 5 out of cooldown.\nUse Skill 4 once you have 4 Rifts. You can delay for a couple seconds, so that you get the full 10 seconds benefit. The fastest Chronomancer, but also the weakest in solo play.\nNot recommended AT ALL for anyone, unless you don't have anything better to do with your ACs.",
+    "tonic": "Fate Tonic",
+    "elixir": "Keen Eye Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Forge",
+      "cape": "Lament"
+    }
+  },
+  "Chrono DataKnight": {
+    "role": "Caster",
+    "description": "Press Skill 5 when you have 4 Rift stacks",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Examen",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Examen",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Spam Skills 2, 3 and 4.\nPress Skill 5 when you have 4 Rift stacks.\nBig damage. It is a big damage class that cannot do anything else.\nNot a good Chronomancer class, has a lot of issues surviving anything so it is only ever good in groups.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Examen",
+      "cape": "Lament"
+    }
+  },
+  "ShadowHunter": {
+    "role": "DPS",
+    "potions": [
+      "Fate Tonic",
+      "Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Default",
+        "class": "Thief",
+        "weapon": "Lucky",
+        "helm": "Vim",
+        "cape": "Valiance"
+      }
+    ],
+    "tips": "Higher Haste and Dodge\nLow damage\nHigher Haste and Dodge\nLow damage\nHigher Haste and Dodge\nLow damage\nHigher Haste and Dodge\nLow damage\nGreat for LUK-based builds\nHigh scaling with pots / group\nMajor raw DPS boost\nHigh Crit Damage\nOverall best in groups\nGreat for Critical chance\nLow chance of activating\nBetter version of Lucky\nComplete focus on damage\nNo special effects / downsides\nHigh Crit Damage\nOverall best in groups\nBest DPS in most cases\nGreat with LUK potions\nExpensive, but high DPS\nGreat solo and in groups\nDebuffs enemies\nHigh Dodge and Haste\nReduces Mana costs\nGreat for most Melee classes\nIncreased Crit chance\nReduced haste (5%)\nGreat for classes that lack Crit\nExtremely cheap\nGreat DPS increase\nAlmost universally the best\nImproves all stats significantly\nDecent damage increase\nUseful for any class\nHigh Crit chance and Dodge\nReduces Mana costs\nGreat for Lucky Hybrid classes\nIncreased Damage\nReduces Healing\nGreat for DPS classes\nDebuffs the target's resistances\nHigh DPS with high atk speed\nGreat for group fights / farming\nHigh Crit Damage\nOverall best in groups\nHigh Crit Damage\nOverall best in groups\nHigh Crit Damage\nOverall best in groups\nHigh Crit Damage\nOverall best in groups\nHigh Crit Damage\nOverall best in groups\nGreat for Critical chance\nLow chance of activating\nGreat for Critical chance\nLow chance of activating\nImproves all stats significantly\nDecent damage increase\nUseful for any class\nImproves all stats significantly\nDecent damage increase\nUseful for any class\nDebuffs the target's resistances\nHigh DPS with high atk speed\nGreat for group fights / farming\nHigher Haste and Dodge\nLow damage\nHigh Dodge and Haste\nReduces Mana costs\nGreat for most Melee classes\nHigh Dodge and Haste\nReduces Mana costs\nGreat for most Melee classes\nHigh Crit chance and Dodge\nReduces Mana costs\nGreat for Lucky Hybrid classes\nBetter version of Lucky\nComplete focus on damage\nNo special effects / downsides\nHigher Haste and Dodge\nLow damage\nHigh Crit Damage\nOverall best in groups\nIncreased Crit chance\nReduced haste (5%)\nGreat for classes that lack Crit\nIncreased Damage\nReduces Healing\nGreat for DPS classes\nIncreased Damage\nReduces Healing\nGreat for DPS classes\nFate Tonic\nBattle Elixir\nFelicitous Philtre\nFate Tonic\nBattle Elixir\nFelicitous Philtre",
+    "tonic": "Fate Tonic",
+    "elixir": "Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Thief",
+      "weapon": "Lucky",
+      "helm": "Vim",
+      "cape": "Valiance"
+    },
+    "description": ""
+  },
+  "Chronomancer": {
+    "role": "Hybrid",
+    "description": "Start with your Skill 5 to guarantee all your hits will land",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Vim",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget Forge",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Endgame Solo",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Start with your Skill 5 to guarantee all your hits will land.\nThen, spam Skills 2 and 5 until you have enough rifts and use Skill 4 to nuke.\nUse Skill 3 to keep haste and heal yourself. Very basic, but not good at anything.\nThe damage is average and it can't dodge or tank, the healing is small and it doesn't scale as well in groups.\nAt least it is more consistent than other Chronomancers due to Dodge debuff and guaranteed nuke crit.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Chunin": {
+    "role": "Tank Melee",
+    "description": "It's a PvP class disguised as a farming class",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Thief",
+        "cape": "Thief"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Forge",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Full Forge",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Lament"
+      },
+      {
+        "name": "Alternative",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Just spam everything. It's a PvP class disguised as a farming class.\nYou want to get it? Sure, go ahead, but there is something better 15 minutes away in the next Chaos Lord.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Vim",
+      "cape": "Lament"
+    }
+  },
+  "Classic Ninja": {
+    "role": "Hybrid",
+    "description": "Start with your Skill 5, so that you have a safeguard",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Forge",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Solo / Ultra Dage",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Start with your Skill 5, so that you have a safeguard.\nFollow with your Skill 3, spamming it out of cooldown.\nSpam Skill 2, if you have the mana for it.\nPretend Skill 4 doesn't exist. A great early dodge class, extremely easy to get and allows you to cheese a lot of content you otherwise wouldn't be able to.\nSomehow found a use on Ultra Dage.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Vim",
+      "cape": "Vainglory"
+    }
+  },
+  "Cryomancer": {
+    "role": "Caster",
+    "description": "Acheron user: let stacks drop (~8 max).",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Wizard",
+        "weapon": "Smite",
+        "helm": "Pneuma",
+        "cape": "Lament"
+      },
+      {
+        "name": "Full Forge",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Try to use your Skill 3 after your Skill 5 most of the time, unless you are desperately in need of the extra healing and resistance.\nBesides that, just spam. It is about as good as Dragonslayer General against regular mobs, without the upside of being broken against Dragons.\nIt also takes daily quests to unlock, while Dragonslayer General is just a small questline.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Wizard",
+      "weapon": "Acheron",
+      "helm": "Pneuma",
+      "cape": "Lament"
+    }
+  },
+  "Dark Lord": {
+    "role": "Caster",
+    "description": "Turn on your Skill 2 (and keep the buff always on)",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Wizard",
+        "weapon": "Health Vamp",
+        "helm": "Pneuma",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Full Forge",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Full Crit",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Pneuma",
+        "cape": "Lament"
+      },
+      {
+        "name": "Full Pots Solo",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Turn on your Skill 2 (and keep the buff always on)\nSpam Skills 3 and 4.\nUse Skill 5 when you need healing, or run out of mana. Seasonal ArchFiend-level class.\nThe damage is good, and will be a very solid farming class before things like Arcana Invoker, or one of the OP farmers.\nWhile you don't have Dauntless, this class is at the level of ArchFiend.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Wizard",
+      "weapon": "Elysium",
+      "helm": "Pneuma",
+      "cape": "Lament"
+    }
+  },
+  "Darkblood StormKing": {
+    "role": "Caster",
+    "description": "Basically, get the maximum amount of Shocked stacks from Thunderstricken enemies, then nuke with your Skill 5",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Wizard",
+        "weapon": "Mana Vamp",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Forge 1",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Forge 2",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Basically, get the maximum amount of Shocked stacks from Thunderstricken enemies, then nuke with your Skill 5. A gimmicky class that takes waaay too long to build-up damage and doesn't have a decent reward for getting high stacks.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Wizard",
+      "weapon": "Elysium",
+      "helm": "Pneuma",
+      "cape": "Vainglory"
+    }
+  },
+  "DeathKnight Lord": {
+    "role": "Tank Melee",
+    "description": "Start with your Skill 5 so you become tankier, then spam all of your skills out of cooldown",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Start with your Skill 5 so you become tankier, then spam all of your skills out of cooldown. Extremely simple, and relatively good, class.\nSadly, it takes a while to get, but it is also one of the best early farming classes (if not the best).\nMay be worthwhile, if you are a completionist.",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Lament"
+    }
+  },
+  "Scion of Flames": {
+    "role": "DPS / Support",
+    "description": "Acheron user: stacks drop at end of combo.",
+    "potions": [
+      "Sage Tonic",
+      "Potent Malevolence Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Solo",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Farming Potted",
+        "class": "Wizard",
+        "weapon": "Acheron",
+        "helm": "Pneuma",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Healer Support",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Absolution"
+      }
+    ],
+    "tips": "Farming: Keep 1+5 and 1+3 active at all times\nSoloing: 1+2 and 1+3 / May use 1+4 if you are in risk of dying\nDPS / Support: 1+2 and 1+3 are great / use 1+5 to spread effects to group / use 1+4 instead of 1+2 if extra healing is needed A great group class, although it lacks as a farmer.\nCan be great solo, but potions are expensive.\nNOT RECOMMENDED WITHOUT FORGE",
+    "tonic": "Sage Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Wizard",
+      "weapon": "Acheron",
+      "helm": "Pneuma",
+      "cape": "Vainglory"
+    }
+  },
+  "Chrono Commandant": {
+    "role": "Tank Melee",
+    "description": "Basically spam Skill 2, while keeping your Skill 3 buff always on and using it to heal yourself when needed",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Vim",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget Forge",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Solo Forge",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Basically spam Skill 2, while keeping your Skill 3 buff always on and using it to heal yourself when needed.\nUse Skill 5 out of cooldown when solo, but try to use it to help your team when in a group.\nUse 4 to nuke when you have 4 or more Rift stacks. Even though the max stacks are 4, you can go over that amount for more damage accumulated in the past 10 seconds effect. It is a decent chronomancer, focusing on tanking instead of dodge.\nHowever, it is extremely inconsistent and doesn't have any Dodge debuffs, or Crit buffs.\nTimeKeeper, but tanky.",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Lament"
+    }
+  },
+  "Interstellar Knight": {
+    "role": "DPS",
+    "description": "Acheron user: stacks drop at end of combo.",
+    "potions": [
+      "Sage Tonic",
+      "Potent Malevolence Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Wizard",
+        "weapon": "Wizard Awe Blast",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Whale",
+        "class": "Wizard",
+        "weapon": "Acheron",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Top Damage",
+        "class": "Wizard",
+        "weapon": "Ravenous",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Infinite Mana",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Start with [3 - 5 - 23 - 25]\nThen [2 - 23] x2\nUse [4] for massive damage, or hold stacks for massive healing\nRepeat from the start\nRavenous can be replaced by Valiance\nVainglory can be replaced by Absolution for even higher healing",
+    "tonic": "Sage Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Wizard",
+      "weapon": "Acheron",
+      "helm": "Pneuma",
+      "cape": "Vainglory"
+    }
+  },
+  "ShadowStalker of Time": {
+    "role": "DPS",
+    "description": "Dodge-based DPS Chrono variant. High crit damage.",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Recommended",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Dodge-focused build. Stack haste from Vim helm.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Vim",
+      "cape": "Vainglory"
+    }
+  },
+  "Timeless Chronomancer": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir"
+    ],
+    "builds": [
+      {
+        "name": "Base",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Solo Dodge",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Penitence"
+      },
+      {
+        "name": "Ultra DPS",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Use Hourglass of Transience for dodge\nCombine it with Infinite Corruption for extra damage\nDodge combo: [2 - 2 - 4] (x2) - [5 - 3]\nYou only have dodge for half it\nYou may or may not die to your DoT\nThis class works a lot better in groups\nDamage combo: [2 - 2 - 4] (x2) - [5]",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Vim",
+      "cape": "Penitence"
+    }
+  },
+  "Overworld Chronomancer": {
+    "role": "DPS",
+    "description": "Holiday-exclusive Chrono variant.",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir"
+    ],
+    "builds": [
+      {
+        "name": "Recommended",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Penitence"
+      }
+    ],
+    "tips": "Holiday-exclusive class with unique buffs.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Vim",
+      "cape": "Penitence"
+    }
+  },
+  "Necrotic Chronomancer": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Health Vamp",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Ultras",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "High DPS Farming",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "HP Sustain Farming",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Spam [2] and [3]\nUse [5] to renew buffs and debuffs",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Paladin Chronomancer": {
+    "role": "Tank",
+    "description": "",
+    "potions": [
+      "Body Tonic",
+      "Divine Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Healer",
+        "weapon": "Mana Vamp",
+        "helm": "Healer",
+        "cape": "Healer"
+      },
+      {
+        "name": "Highest HP",
+        "class": "Fighter",
+        "weapon": "Fighter Mana Vamp",
+        "helm": "Hearty",
+        "cape": "Fighter"
+      },
+      {
+        "name": "Healer",
+        "class": "Fighter",
+        "weapon": "Fighter Mana Vamp",
+        "helm": "Pneuma",
+        "cape": "Absolution"
+      },
+      {
+        "name": "Damage (Main Build)",
+        "class": "Fighter",
+        "weapon": "Fighter Mana Vamp",
+        "helm": "Hearty",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Just spam [2] and [3] and make sure your team doesn't die\nUse [4] to gain a lot of HP and a massive healing with added heal over time\nUse [5] to nuke for some damage\nYou can mix the enhancements around, and swap Fighter for Healer (will deal less damage), if you want.\nLast build should be the best for most cases, just swap to Absolution in case you cannot use Vainglory (Darkon and others that reduce healing).",
+    "tonic": "Body Tonic",
+    "elixir": "Divine Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Fighter",
+      "weapon": "Fighter Mana Vamp",
+      "helm": "Hearty",
+      "cape": "Vainglory"
+    }
+  },
+  "Chrono ShadowHunter": {
+    "role": "Hybrid",
+    "description": "Hybrid Chrono variant with ShadowHunter mechanics.",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Recommended",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Hybrid kit - swap between melee and caster stats as needed.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Valiance",
+      "helm": "Examen",
+      "cape": "Vainglory"
+    }
+  },
+  "Phantom Chronomancer": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "P2W Build",
+        "class": "Lucky",
+        "weapon": "Acheron",
+        "helm": "Examen",
+        "cape": "Lament"
+      },
+      {
+        "name": "Best DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Best Solo",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Always start with [4] (for dodge)\nUse [2-3] (x4) then [42 - 3 - 45]\nNormal:\nExamen full combo (best damage):",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Examen",
+      "cape": "Vainglory"
+    }
+  },
+  "Master of Moglins": {
+    "role": "Support",
+    "description": "Acheron user: let stacks drop (~10 max).",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Base",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Farming",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Healing Support",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultra Support",
+        "class": "Wizard",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Spam [2], [3] and [4]\nUse [5] with as many moglin buffs and debuffs active as possible\nFarming:\nElysium can be replaced by Acheron\nUse Penitence with Acheron",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Acheron",
+      "helm": "Pneuma",
+      "cape": "Penitence"
+    }
+  },
+  "Legion Revenant": {
+    "role": "Support",
+    "description": "Acheron user: permanently active.",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Farming",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Farming",
+        "class": "Lucky",
+        "weapon": "Acheron",
+        "helm": "Pneuma",
+        "cape": "Penitence"
+      },
+      {
+        "name": "Group",
+        "class": "Lucky",
+        "weapon": "Arcana Concerto",
+        "helm": "Forge",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Just spam everything\nUse your [2] to decay the target (prevents them from healing) for 2 seconds\nVainglory can be replaced by Lament for crit chance if needed\nCan use Praxis when needed for certain ultras (block damage every 10 seconds)\nCan use Ravenous in groups if someone else is already using Arcana Concerto.\nNot recommended for farming without Acheron.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Acheron",
+      "helm": "Pneuma",
+      "cape": "Penitence"
+    }
+  },
+  "Dragon Knight": {
+    "role": "DPS / Tank",
+    "description": "DPS / Tank. Permanent Acheron user.",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Recommended",
+        "class": "Wizard",
+        "weapon": "Acheron",
+        "helm": "Pneuma",
+        "cape": "Penitence"
+      }
+    ],
+    "tips": "Keep Acheron buff active permanently. Pneuma helm for crit and INT.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Wizard",
+      "weapon": "Acheron",
+      "helm": "Pneuma",
+      "cape": "Penitence"
+    }
+  },
+  "Phantasm Chronomancer": {
+    "role": "Caster",
+    "description": "Caster. Acheron user - stacks drop at combo end.",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Recommended",
+        "class": "Lucky",
+        "weapon": "Acheron",
+        "helm": "Examen",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Let Acheron stacks drop at end of combo for damage burst.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Acheron",
+      "helm": "Examen",
+      "cape": "Lament"
+    }
+  },
+  "Elemental Dracomancer": {
+    "role": "Caster",
+    "description": "Caster. Acheron user - let stacks drop (~8 max).",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Recommended",
+        "class": "Wizard",
+        "weapon": "Acheron",
+        "helm": "Pneuma",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Let Acheron stacks drop around 8 stacks for damage spike.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Wizard",
+      "weapon": "Acheron",
+      "helm": "Pneuma",
+      "cape": "Lament"
+    }
+  },
+  "Timeless Dark Caster": {
+    "role": "Caster",
+    "description": "Acheron user: stacks drop at end of combo.",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Mid Game",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Solo DPS",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Always use [4] and [2] before [5] to keep all buffs and debuffs active all the time\nUse [2] right after [5] ends to refresh the debuff then [4] for the buff\nSpam [2] and [3] as much as your manna allows you\nAs far as I know, there is no standardised combo for this class\nThis class works best when paired with Legendary Hero / Glaceran Warlord / StoneCrusher / Frostval Barbarian classes",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Acheron",
+      "helm": "Pneuma",
+      "cape": "Vainglory"
+    }
+  },
+  "Frost SpiritReaver": {
+    "role": "DPS",
+    "description": "Acheron user: let stacks drop (~6 max).",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Base",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Farming",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "PvP",
+        "class": "Wizard",
+        "weapon": "Lacerate",
+        "helm": "Pneuma",
+        "cape": "Penitence"
+      }
+    ],
+    "tips": "Don't get this class (waste of time)\nOnly ever useful on PvP\nJust spam",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Acheron",
+      "helm": "Pneuma",
+      "cape": "Vainglory"
+    }
+  },
+  "SwordMaster Assassin": {
+    "role": "DPS",
+    "description": "Acheron user: drops every hit, used for one-shotting.",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Farming",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Highest Nuke",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Using [5] will prevent you from attacking\nUsing [4] while [5] is active will give you one charge, up to a maximum of 5\nUsing [3] afterwards will reduce the target's resistance and consume all charges to deal massive damage (damage scales with number of charges, up to 5)\nUsing [2] instead will increase your critical damage and consume all charges to deal massive damage (damage scales with number of charges, up to 5)\nRecommended using [3] to detonate your charges for maximum damage (specially when using potions)",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Acheron",
+      "helm": "Vim",
+      "cape": "Vainglory"
+    }
+  },
+  "Arcana Invoker": {
+    "role": "Farmer",
+    "description": "Then spam your 3 for damage and stacks, alternating between 4 and 5 after it as your mana allows (when farming, do not use 5 during The World buff)",
+    "potions": [
+      "Fate Tonic",
+      "Potent Revitalize Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Forgeless",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Farming",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Full DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultra Gramiel*",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Forge",
+        "cape": "Penitence"
+      }
+    ],
+    "tips": "Use 2 to start your Cycle\nThen spam your 3 for damage and stacks, alternating between 4 and 5 after it as your mana allows (when farming, do not use 5 during The World buff).\nDepending on your stacks, your 4 will have different effects. This can cause a big increase in DPS when used right, making the class even more powerful.\nWhen reach max stacks, press 2 again. During this buff's duration, you will lose resistance for every stack gained from your 3, but the damage will keep increasing until the end.\nAfter the Cycle ends, or when you feel like restarting it, press 2 to start over. It is, by far, the best generalist class for F2P players.\nHigh dodge, damage, DPS and farming potential, which increase exponentially when paired with potions and group buffs.\nIf you wanted to match a Chronomancer, this is the class.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Revitalize Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Lucky Mana Vamp",
+      "helm": "Forge",
+      "cape": "Penitence"
+    }
+  },
+  "Archfiend": {
+    "role": "Support",
+    "description": "In groups, it's just a brainless spam",
+    "potions": [
+      "Fate Tonic",
+      "Potent Revitalize Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Health Vamp",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lacerate",
+        "helm": "Forge",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Farming / Dage",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Group Forge",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "In groups, it's just a brainless spam.\nIn farming, it's just a brainless spam, but you don't press 5 so you don't lose your critical chance. The best mid-game farming class.\nEven though the farm for it can be a little bit annoying, if you follow the progression properly, you should be able to get this class in a bout a day or two.\nAfter that, your life will be many times easier...",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Revitalize Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Archmage": {
+    "role": "Caster",
+    "description": "Acheron user: permanently active.",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Low HP Mobs",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "High HP Mobs",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Overall Best",
+        "class": "Wizard",
+        "weapon": "Acheron",
+        "helm": "Pneuma",
+        "cape": "Absolution"
+      },
+      {
+        "name": "It Just Works",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "No Forge (why)",
+        "class": "Wizard",
+        "weapon": "Wizard Awe Blast",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      }
+    ],
+    "tips": "The average combo would be to sit on Corporeal form spamming 342 for the rest of your life.\nHOWEVER, you can lear all the ArchMage combos and weird as hell interactions here.\nFun fact: For some reason, this class scales with Attack Power more than Spell Power, although INT giving Magical Boost overcompensates for that. A very complex class that can be used in a simple way.\nIs it worth it to farm ArchMage straight-away after ArchFiend? Honestly, no.\nYou will gain more in the long run by focusing on Arcana Invoker and Forge enhancements instead.\nArchMage is a collectors' class and something made for completionists.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Acheron",
+      "helm": "Pneuma",
+      "cape": "Absolution"
+    }
+  },
+  "Chrono ShadowSlayer": {
+    "role": "Hybrid",
+    "description": "(click for video) Considerations",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Thief",
+        "cape": "Thief"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Vim",
+        "cape": "Lucky"
+      },
+      {
+        "name": "No Valiance",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Solo Full Forge",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Arcana Concerto",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "The usual way to use the class is by using your Skill 3 to gain Dodge, wait for the enemy to hit you, then use Skill 4 to deal damage. Repeat this one more time and then use Skill 5 to nuke.\nIn groups, it is normal to just spam Skill 4 until you run out of bullets, then use Skill 5 to nuke.\nIf you have a decent ping (I'd say less than 100), you can enter Gunslinger mode and spam bullets while also alternating your Skills 3 and 4 to keep dodge, if needed. It is a very intensive combo, but the damage gain is enormous. One of the best DPS classes in the game, even when not played optimally (the class is also really fun).\nWith forge, this class becomes an absolute monster even for farming, making it the BEST recommendation as a first Chronomancer class.\nIf you want something more casual, look at Phantasm Chronomancer.",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Arcana Concerto",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Doom Metal Necro": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Mid Game",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Penitence"
+      },
+      {
+        "name": "No Dauntless",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Vim",
+        "cape": "Penitence"
+      },
+      {
+        "name": "Best DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Penitence"
+      }
+    ],
+    "tips": "Use [2] to get started\n[4] will give you haste\n[5] increases your damage every time you use (max 3) but also increases damage taken (both up to 99%)\nDamage taken debuff from [5] ends 2 seconds before bonus damage buff\nSpam [243 - 243 - 5] to cycle all buffs perfectly (as long as you have 50% haste)",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Forge",
+      "cape": "Penitence"
+    }
+  },
+  "Dragon of Time": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Sage Tonic",
+      "Potent Malevolence Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Forgeless",
+        "class": "Healer",
+        "weapon": "Healer",
+        "helm": "Healer",
+        "cape": "Healer"
+      },
+      {
+        "name": "Budget",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Full DPS",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Nightmare Carnax",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Hearty",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Your skills [2] and [4] cost health\nYour [5] deals damage based on current health\nAlternate [3] between skills for higher damage and healing\nBest combo: [4 - 3 - 2 - 3 - 5 -3]",
+    "tonic": "Sage Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Wizard",
+      "weapon": "Elysium",
+      "helm": "Hearty",
+      "cape": "Vainglory"
+    }
+  },
+  "Dragonslayer": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Destruction Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Early Levels",
+        "class": "Fighter",
+        "weapon": "Fighter",
+        "helm": "Fighter",
+        "cape": "Fighter"
+      },
+      {
+        "name": "Awe Enhancements",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Early Forge (why?)",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Forge",
+        "cape": "Forge"
+      },
+      {
+        "name": "Full Forge (WHY???)",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Literally just spam everything",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Destruction Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Lament"
+    }
+  },
+  "Dragonslayer General": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Destruction Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Mid Game",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "No Dauntless",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Best DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Start with [3] for haste\nYou can use your [3] to taunt\nSpam your [4] for crit chance\n[5] empowers your skills against dragons\n[5] heals you if you don't use it again within 4 seconds\nJust spam everything",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Destruction Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Lament"
+    }
+  },
+  "Elemental Warrior": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Mid Game Farming",
+        "class": "Lucky",
+        "weapon": "Lacerate",
+        "helm": "Vim",
+        "cape": "Lament"
+      },
+      {
+        "name": "Full Forge Farming",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "When farming, you can just spam skills and auto attacks\nAs long as you start with 2, you should be fine most of the time",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Eternal Inversionist": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Mid Game",
+        "class": "Lucky",
+        "weapon": "Lacerate",
+        "helm": "Forge",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Cheap High Haste",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Vim",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Best Farming",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Start with [3] for extra damage\nJust spam\nRavenous can be replaced by Valiance for cheaper increased damage",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Vainglory"
+    }
+  },
+  "Enforcer": {
+    "role": "DPS / Tank",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Fighter",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Mid Game",
+        "class": "Fighter",
+        "weapon": "Praxis",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultra DPS (why)",
+        "class": "Fighter",
+        "weapon": "Praxis",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Dauntless (why2)",
+        "class": "Fighter",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Just spam everything except [4]",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Fighter",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Vainglory"
+    }
+  },
+  "Frostval Barbarian": {
+    "role": "Support",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Divine Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Fighter",
+        "weapon": "Fighter",
+        "helm": "Fighter",
+        "cape": "Fighter"
+      },
+      {
+        "name": "Damage...?",
+        "class": "Fighter",
+        "weapon": "Praxis",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Support",
+        "class": "Fighter",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Absolution"
+      },
+      {
+        "name": "Farming",
+        "class": "Fighter",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Just spam everything except [5]\nIf farming, just spam [5]",
+    "tonic": "Might Tonic",
+    "elixir": "Divine Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Fighter",
+      "weapon": "Valiance",
+      "helm": "Anima",
+      "cape": "Vainglory"
+    }
+  },
+  "Glacial Berserk": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Mid Game",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "DPS",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Your [5] empowers your skills\nPress [5] and then spam\nWhen [5] is out of cooldown, wait for other skills to also come out of cooldown, then use it and spam",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Valiance",
+      "helm": "Anima",
+      "cape": "Vainglory"
+    }
+  },
+  "Great Thief": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Base",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Arcana Concerto",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultra DPS",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Solo DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Just spam\nUse [5] after [3] for a short stun",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Examen",
+      "cape": "Vainglory"
+    }
+  },
+  "Guardian": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Destruction Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Base",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultra DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Solo DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Repeat [2325]\nUse [4] if you really need mana\nRavenous can be swapped for Spiral Carve (if you don't have Ravenous)\nIf you are not using Awe Blast in the group, make sure at least one other person has it equipped, or you will have mana issues\nPenitence can be useful sometimes",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Destruction Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Hollowborn Vindicator": {
+    "role": "Tank",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Super Tank",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Penitence"
+      },
+      {
+        "name": "Solo DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Penitence"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Penitence"
+      }
+    ],
+    "tips": "You want to avoid using [3] as much as possible, if your objective is deal the most damage\nUsing [3] will remove all your stacks to heal you\nYour [4] deals bonus damage with your stacks and your [2] deals bonus damage when you are low HP\nKeep [5] buff always on for massive damage boost\nA safe rotation would be:\nDauntless will prevent [5] from applying the shield, so use [3] beforehand if you want the shield to be applied",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Praxis",
+      "helm": "Forge",
+      "cape": "Penitence"
+    }
+  },
+  "Immortal Dark Caster": {
+    "role": "Caster",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Mid Game",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Farming",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Pneuma",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Use your [4] after your [2] for Damage Resistance buff\nUse your [4] after your [3] for Critical Chance buff\nUse [5] while having Damage Resistance buff for a Physical Resistance buff\nUse [5] while having Critical Chance buff for a Magical Resistance debuff on the enemy\nCombo: [24335] - [334252]\nThis combo keeps all buffs/debuffs active at the same time",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Infinite Legion Dark Caster": {
+    "role": "Caster",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Class Swap",
+        "class": "Wizard",
+        "weapon": "Smite",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Farming",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Just spam everything\nYou can use [5] to negate healing on the target\nSwap Build:\nSwapping between 2 variants of Infinite Legion Dark Caster and spamming [5] to instantly kill mobs",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "King's Echo": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Mid Game",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Examen",
+        "cape": "Lament"
+      },
+      {
+        "name": "Solo / Group",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "SC / FB in group",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Full Damage: [2 - 3] (up to 8 times) -> 5 -> repeat\nDefensive: 4 -> [2 - 3] (up to 8 times) -> 5 -> repeat\nFull Defense: 4 -> [2 - 3] (x2) -> 4 -> [2 - 3] (x2) -> 5 -> repeat\nThis class does not work well without Examen, or something to reduce mana costs\nPenitence can be useful against certain bosses\nElysium is a cool enhancement for healing, but not for damage\nYou should never need Elysium and, if you need it, then you shouldn't be on this class",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Legendary Hero": {
+    "role": "Support / DPS",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Destruction Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Mid Game",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Best",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "High crit chance",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Just spam everything\nUse your [5] when you have 8 stacks from your [3] for highest healing",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Destruction Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Valiance",
+      "helm": "Anima",
+      "cape": "Lament"
+    }
+  },
+  "Legion Paladin": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Base",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Solo DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Speaker / Darkon DPS",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Using [2], [4] and [5] will give you souls\nUsing [3] will convert the souls into spirits, empowering your other skills (each skill consumes one soul)\nAlways keep the buffs from [3] active\nWith Spirits:\n[2] will heavily debuff the target\n[4] will taunt the target for 4 seconds and massively reduce all damage you take for 2 seconds\n[5] will apply a small damage over time to the target (lowest priority)",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Praxis",
+      "helm": "Forge",
+      "cape": "Lament"
+    }
+  },
+  "Legion SwordMaster Assassin": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "AoE Farming /",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Single Target DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Just spam [2] and [3]\nPress [4] only once for dodge buff\nPress [4] a second time for critical and resistance buffs instead, and deal single-target damage\nUsing [5] will remove your [4] buff, deal increased damage and apply Spinning Dragon to the target, negating the next attack",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "LightCaster": {
+    "role": "DPS / Support",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Budget DPS",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Ultra DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Just spam\nKeep your [4] buffs always on\nPrioritize [2] and [3] for damage\nIn case your crit chance is above 95%, you can change Lament for Vainglory or Penitence",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Lament"
+    }
+  },
+  "Lycan": {
+    "role": "PvP",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "PvP",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Press [5] then spam",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Vainglory"
+    }
+  },
+  "Martial Artist": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Cheap Solo",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Lament"
+      },
+      {
+        "name": "Solo",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Vim",
+        "cape": "Lament"
+      },
+      {
+        "name": "Ultra DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Alternate forms to maximize buffs and debuffs\nMost relevant forms:\n[3+2] = Damage Boost\n[3+4] = Extra Damage Boost\n[2+3] = Debuff resistances\n[4+2] = Dodge (used when soloing)\nRotation:\nDodge: 42 23 3 - 5 - 34 32 32 34 23\nYou can use Valiance instead of Ravenous for dodging",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Mecha Jouster": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget Solo",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Solo / PvP",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultra DPS",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Start with [5]\nUse [3] after [2] for extra damage\nUse [4] to heal yourself\nSpam everything",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Praxis",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Master Ranger": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Health Vamp",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Mid Game farming",
+        "class": "Lucky",
+        "weapon": "Lucky Health Vamp",
+        "helm": "Vim",
+        "cape": "Avarice"
+      },
+      {
+        "name": "AFK press 2 farming",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Current Best farming",
+        "class": "Lucky",
+        "weapon": "Elysium",
+        "helm": "Anima",
+        "cape": "Avarice"
+      }
+    ],
+    "tips": "Normal: Spam [2] and [3], use [5] when you have 6 or more stacks of marks, maybe use [4]\nDauntless: Spam [2] and [5] nonstop and maybe use [4]\nElysium: Spam [3] and [4] to keep mana low, use [2] to restore mana and [5] to heal if needed",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Elysium",
+      "helm": "Anima",
+      "cape": "Avarice"
+    }
+  },
+  "MindBreaker": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Keen Eye Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget build",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Pneuma",
+        "cape": "Avarice"
+      },
+      {
+        "name": "High damage",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Current Best",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Examen",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Spam all skills\nTry to stay as low as possible with Dauntless",
+    "tonic": "Fate Tonic",
+    "elixir": "Keen Eye Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Examen",
+      "cape": "Lament"
+    }
+  },
+  "Naval Commander": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Destruction Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Mid Game",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Lament"
+      },
+      {
+        "name": "Solo Farming",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group DPS (why?)",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Spam all skills\nThis class is not good, brother\nGo get Master Ranger\nWhere is your Blaze Binder bonus pack?",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Destruction Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Northlands Monk": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic (groups)",
+        "class": "Wizard",
+        "weapon": "Wizard Spiral Carve",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Full Forge (groups)",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Examen",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Just spam everything\nDamage increases with players present in the room",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Valiance",
+      "helm": "Examen",
+      "cape": "Lament"
+    }
+  },
+  "Paladin": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Keen Eye Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Regular Build",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Highest DPS",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Farming",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Spam [2] and [4]\nUse [3] when needed\nFarming:\nSpam your [2] and [4]",
+    "tonic": "Fate Tonic",
+    "elixir": "Keen Eye Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Vim",
+      "cape": "Lament"
+    }
+  },
+  "Psionic MindBreaker": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Keen Eye Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget build",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Pneuma",
+        "cape": "Avarice"
+      },
+      {
+        "name": "High damage",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Current Best",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Examen",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Spam all skills\nTry to stay as low as possible with Dauntless",
+    "tonic": "Fate Tonic",
+    "elixir": "Keen Eye Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Examen",
+      "cape": "Lament"
+    }
+  },
+  "Sentinel": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Mid Game",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Ultras DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Solo DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Your [2] heals you over time and replaces [4]\nYour [4] increases your crit chance and replaces [2]\nUsing [4] after [2] or [3] will have different effects\nAfter [2] it will give you HP\nAfter [3] it will give damage and resistance\nUse [5] to nuke, heal for a lot of health, and also reduce enemy healing by 90%",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Vainglory"
+    }
+  },
+  "ShadowWalker of Time": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "SC in groups",
+        "class": "Lucky",
+        "weapon": "Smite",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Fast Solo DPS",
+        "class": "Lucky",
+        "weapon": "Smite",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Solo Farming",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Offensive: [3 - 54 - 23 - 23]\nMay have to adjust depending on haste\nDodge (best with Dauntless):\nStart with [4]\nWhen [4] buff ends, immediately [5]",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Vim",
+      "cape": "Vainglory"
+    }
+  },
+  "Shaman": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Wizard",
+        "weapon": "Mana Vamp",
+        "helm": "Wizard",
+        "cape": "Wizard"
+      },
+      {
+        "name": "Budget Build",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Examen",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Best DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Best Solo",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Always start with [5]\nSpam [2] and [3]\nUse [4] when possible\nDo not let your [5] or [2] debuffs end\nFarming:\nRavenous can be replaced with Valiance or Elysium for farming\nIn case you use Elysium, use Pneuma helm with it\nJust spam [2] and [3]",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Examen",
+      "cape": "Vainglory"
+    }
+  },
+  "Soul Cleaver": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Destruction Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Highest Nuke",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Max Haste",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Full Pot solo",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "NOT RECOMENDED WITHOUT DAUNTLESS!! (best with full pots)\nOut of combat, use [5] until your HP gets extremely low (in the 100s)\nPress [2] to nuke for 100~200k (use [4] before so you don't die accidently)",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Destruction Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Anima",
+      "cape": "Vainglory"
+    }
+  },
+  "SwordMaster": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Keen Eye Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Mid Game",
+        "class": "Lucky",
+        "weapon": "Smite",
+        "helm": "Vim",
+        "cape": "Lament"
+      },
+      {
+        "name": "Budget",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Lament"
+      },
+      {
+        "name": "Best",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+      }
+    ],
+    "tips": "Use [4] to buff yourself\nSpam everything",
+    "tonic": "Fate Tonic",
+    "elixir": "Keen Eye Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Dauntless",
+      "helm": "Vim",
+      "cape": "Lament"
+    }
+  },
+  "Ultra OmniKnight": {
+    "role": "DPS",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Malevolence Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Examen",
+        "cape": "Lament"
+      },
+      {
+        "name": "Safe DPS",
+        "class": "Lucky",
+        "weapon": "Elysium",
+        "helm": "Forge",
+        "cape": "Lament"
+      },
+      {
+        "name": "Highest DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Examen",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Start with [3] for healing then [4] for haste, then spam\nCombo: [3 - 4 - 5 - spam]\nHaving some class to help restore your mana will allow you to replace Elysium for Valiance or Ravenous and keep the Forge helm for high damage\nYes, Valiance has more damage than Elysium, but you have a massive mana issue without Examen (Ravenous is highest damage)\nClasses that can help with mana regen:\nStoneCrusher, Glaceran Warlord, Legendary Hero, or Frostval Barbarian",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Malevolence Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Examen",
+      "cape": "Vainglory"
+    }
+  },
+  "Undead Goat": {
+    "role": "Tank",
+    "description": "",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Mana Vamp",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Solo DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Start with your [5]\nSpam [2] and [3]\nWhen your [5] is about to come back from cooldown, use [4] then [2] and [3] once\nExample:\n[5 - 23 (x3) - 5 - 4 - 23 - repeat]\nIf you need to tank, use [4] immediately after [5] on the first rotation, then do the normal rotation\nMight + Potent Honor is probably the best combination of potions, but is extremely expensive. Fate or Might + Felicitous Philtre is the way to go",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Verus DoomKnight": {
+    "role": "Tank",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Budget DPS",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Solo DPS",
+        "class": "Lucky",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+      },
+      {
+        "name": "Ultra DPS",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Your [5] will empower your skills for 10 seconds when used at 10 stacks\n[52] and [54] will give you bonus damage\n[53] will give you bonus resistance\nUse either depending on the situation\nStandard combo:\nTank combo:",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "VoidHighlord": {
+    "role": "DPS / Tank",
+    "description": "",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Basic",
+        "class": "Lucky",
+        "weapon": "Lucky Awe Blast",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Best Solo",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Anima",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Solo Tank",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Anima",
+        "cape": "Penitence"
+      },
+      {
+        "name": "Ultras / Groups",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Dauntless: [4 - 5 - 2 - 3]\nRavenous: [4 - 5 - 3 - 2]\nNot recommended in ultras\nRavenous can be replaced with Valiance for decent damage, if you don't have it yet",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  },
+  "Alpha DOOMmega": {
+    "role": "Tank Melee",
+    "description": "AlphaDOOMmega is an extremely simple class, so there is absolutely no combo to follow",
+    "potions": [
+      "Might Tonic",
+      "Potent Battle Elixir",
+      "Potent Honor Potion"
+    ],
+    "builds": [
+      {
+        "name": "Early Game",
+        "class": "Lucky",
+        "weapon": "Lucky",
+        "helm": "Thief",
+        "cape": "Thief"
+      },
+      {
+        "name": "Early Forge",
+        "class": "Lucky",
+        "weapon": "Lucky",
+        "helm": "Forge",
+        "cape": "Lucky"
+      },
+      {
+        "name": "Soloing",
+        "class": "Lucky",
+        "weapon": "Smite",
+        "helm": "Vim",
+        "cape": "Avarice"
+      },
+      {
+        "name": "Group DPS",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Vim",
+        "cape": "Lament"
+      },
+      {
+        "name": "Ultra Darkon",
+        "class": "Lucky",
+        "weapon": "Praxis",
+        "helm": "Vim",
+        "cape": "Avarice"
+      }
+    ],
+    "tips": "AlphaDOOMmega is an extremely simple class, so there is absolutely no combo to follow.\nSpamming can lead to mana issues, specially with Skill 3, which has a high mana cost and deals very little damage.\nRecommended to always keep the buffs from your healing active, while spamming Skill 2 as most as possible. Skill 5 should be used almost always out of cooldown too, in order to maximize DPS. Stop using Skill 2 in case you start running out of mana. Unless you get it very early from Wheel of Doom, there isn't much use in the class.\nAlthough, it has found a niche in Ultra Darkon, as a very consistent way to clear the fight.",
+    "tonic": "Might Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Potent Honor Potion",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Praxis",
+      "helm": "Vim",
+      "cape": "Avarice"
+    }
+  },
+  "ShadowScythe General": {
+    "role": "Hybrid",
+    "description": "Put in your bank and wait for a rework 100 3% items for this shit",
+    "potions": [
+      "Fate Tonic",
+      "Potent Battle Elixir",
+      "Felicitous Philtre"
+    ],
+    "builds": [
+      {
+        "name": "Just don't",
+        "class": "Lucky",
+        "weapon": "Lucky",
+        "helm": "Lucky",
+        "cape": "Lucky"
+      },
+      {
+        "name": "It can't do shit",
+        "class": "Lucky",
+        "weapon": "Lucky Spiral Carve",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "Stop trying",
+        "class": "Lucky",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      },
+      {
+        "name": "It's so ass",
+        "class": "Lucky",
+        "weapon": "Ravenous",
+        "helm": "Forge",
+        "cape": "Vainglory"
+      }
+    ],
+    "tips": "Put in your bank and wait for a rework 100 3% items for this shit",
+    "tonic": "Fate Tonic",
+    "elixir": "Potent Battle Elixir",
+    "potion": "Felicitous Philtre",
+    "scroll": "",
+    "enhancements": {
+      "class": "Lucky",
+      "weapon": "Ravenous",
+      "helm": "Forge",
+      "cape": "Vainglory"
+    }
+  }
+}
